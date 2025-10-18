@@ -381,6 +381,12 @@ footer {
   margin-top: 40px;
 }
 
+button:hover{
+background-color: rgb(138, 252, 138);
+cursor: pointer;
+border: 1px solid rgb(232, 246, 232);
+}
+
 .column {
   justify-items: left;
   text-align: justify;
