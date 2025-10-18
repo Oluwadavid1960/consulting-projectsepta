@@ -257,11 +257,10 @@ article p {
 
 #icon2 {
   display: flex;
-  justify-self: flex-end;
-  margin-bottom: 45px;
+  justify-self: right;
   overflow-x: hidden;
   width: 100px;
-  height: 60px;
+  height: 40px;
 }
 
 .get {
